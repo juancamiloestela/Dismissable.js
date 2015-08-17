@@ -1,0 +1,27 @@
+{
+	"name": "dismissablejs",
+	"version": "1.0.1",
+	"homepage": "https://github.com/juancamiloestela/Dismissable.js",
+	"authors": [
+		
+	],
+	"dependencies": {
+		"jquery": ">=1.6"
+	},
+	"description": "Dismiss elements on screen",
+	"main": [
+		"dist/js/dismissable.js"
+	],
+	"keywords": [
+		"ui",
+		"front-end"
+	],
+	"license": "MIT",
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
+}
