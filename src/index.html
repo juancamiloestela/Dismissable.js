@@ -15,8 +15,6 @@
 
 	<!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
 
-	<link rel="stylesheet" href="css/peekjs.min.css">
-
 	<style>
 		body{
 			font-size: 16px;
@@ -25,38 +23,16 @@
 	</style>
 </head>
 
-<body class="peek-effect-door">
+<body>
 
-	<div class="peek-left-content">
-		<a href="#" class="close peek-toggle-left">&#xD7;</a>
-
-		Left Peek Menu
-
-		<a href="#" class="peek-close-all">Close All</a>
-		<a href="#" class="peek-close-left">Close left</a>
-		<a href="#" class="peek-open-right">Open Right</a>
-	</div>
-
-	<div class="peek-right-content">
-		<a href="#" class="close peek-toggle-right">&#xD7;</a>
-
-		Right Peek Menu
-
-		<a href="#" class="peek-close-all">Close All</a>
-		<a href="#" class="peek-close-right">Close Right</a>
-		<a href="#" class="peek-open-left">Open Left</a>
-	</div>
-
-	<div class="peek-container">
-		Main Content
-		<a href="#" class="peek-open-left">Open Left</a>
-		<a href="#" class="peek-open-right">Open Right</a>
+	<div class="dismissable">
+		This can be <a href="#" class="dismiss">dismissed</a>
 	</div>
 
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 	<script>window.jQuery || document.write('<script src="bower_components/jquery/dist/jquery.min.js"><\/script>')</script>
 
-	<script src="js/peek.min.js"></script>
+	<script src="js/dismissable.min.js"></script>
 </body>
 
 </html>

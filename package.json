@@ -1,7 +1,7 @@
 {
-  "name": "dismissablejs",
-  "version": "1.0.1",
-  "repository": "https://github.com/juancamiloestela/Peek.js",
+  "name": "dismissable-js",
+  "version": "0.0.1",
+  "repository": "https://github.com/juancamiloestela/Dismissable.js",
   "dependencies": {},
   "devDependencies": {
     "grunt": "^0.4.5",
