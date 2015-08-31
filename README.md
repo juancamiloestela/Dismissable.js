@@ -3,4 +3,4 @@
 Dismiss elements on the screen
 
 ## Install
-```bower install --save dismissablejs```
+```bower install --save dismissable-js```
