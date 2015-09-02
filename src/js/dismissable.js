@@ -1,4 +1,4 @@
-/*! dismissable-js - v0.0.1 - 2015-08-17 */(function($){
+/*! dismissable-js - v0.0.1 - 2015-09-01 */(function($){
 	'use strict';
 
 	function dismiss(e){
